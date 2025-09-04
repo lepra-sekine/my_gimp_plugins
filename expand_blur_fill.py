@@ -48,8 +48,8 @@ register(
     "expand_blur_fill",
     "選択範囲を拡大して、下に黒塗りぼかしレイヤーを作成",
     "選択範囲を拡大 → 下にレイヤー作成 → 選択範囲をぼかす → 黒で塗りつぶす",
-    "",
-    "",
+    "SR",
+    "SR",
     "Sep 2025",
     "<Image>/Filters/Custom/ExpandBlurFill",  # メニューの場所
     "RGB*, GRAY*",  # 適用可能な画像タイプ
